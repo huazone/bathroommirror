@@ -22,7 +22,7 @@ content:
         label: Tag
         type: select
         options:
-        values: [ Tech, News, Sports ]
+          values: [ Tech, News, Sports ]
       - name: cover
         label: Cover
         type: image
