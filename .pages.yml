@@ -2,10 +2,10 @@ media:
   input: src/media
   output: /media
 content:
-  - name: posts
-    label: Posts
+  - name: Products
+    label: Products
     type: collection
-    path: 'src/posts'
+    path: 'src/data/post'
     view:
       fields: [ title, published, date ]
     fields:
