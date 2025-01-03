@@ -15,52 +15,52 @@ export const headerData = {
       links: [
         {
           text: 'Led bathroom mirror',
-          href: getPermalink('/#features'),
+          href: getPermalink('led-bathroom-mirror', 'mirror'),
         },
         {
           text: 'Led Framed mirror',
-          href: getPermalink('/services'),
+          href: getPermalink('led-framed-mirror', 'mirror'),
         },
         {
           text: 'Medicine cabinet mirror',
-          href: getPermalink('/pricing'),
+          href: getPermalink('medicine-cabinet-mirror', 'mirror'),
         },
         {
           text: 'Acrylic lighting mirror',
-          href: getPermalink('/about'),
+          href: getPermalink('acrylic-lighting-mirror', 'mirror'),
         },
 
         {
           text: 'Hollywood  mirror',
-          href: getPermalink('/terms'),
+          href: getPermalink('hollywood-mirror', 'mirror'),
         }
       ],
     },
-    {
-      text: 'Blog',
-      links: [
-        {
-          text: 'Blog List',
-          href: getBlogPermalink(),
-        },
-        {
-          text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-        },
-        {
-          text: 'Article (with MDX)',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
-        },
-        {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
-        },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
-        },
-      ],
-    },
+    // {
+    //   text: 'Blog',
+    //   links: [
+    //     {
+    //       text: 'Blog List',
+    //       href: getBlogPermalink(),
+    //     },
+    //     {
+    //       text: 'Article',
+    //       href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
+    //     },
+    //     {
+    //       text: 'Article (with MDX)',
+    //       href: getPermalink('markdown-elements-demo-post', 'post'),
+    //     },
+    //     {
+    //       text: 'Category Page',
+    //       href: getPermalink('tutorials', 'category'),
+    //     },
+    //     {
+    //       text: 'Tag Page',
+    //       href: getPermalink('astro', 'tag'),
+    //     },
+    //   ],
+    // },
     {
       text: 'Contact Us',
       href: getPermalink('/contact'),

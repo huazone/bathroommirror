@@ -52,10 +52,13 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     image,
     tags: rawTags = [],
     category: rawCategory,
+    stucture,
+    lighting,
     author,
     draft = false,
     metadata = {},
   } = data;
+  console.log('data:',data)
 
   const slug = cleanSlug(id); // cleanSlug(rawSlug.split('/').pop());
   const publishDate = new Date(rawPublishDate);
@@ -84,6 +87,9 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     title: title,
     excerpt: excerpt,
     image: image,
+
+    stucture: stucture,
+    lighting: lighting,
 
     category: category,
     tags: tags,

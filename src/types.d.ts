@@ -28,6 +28,10 @@ export interface Post {
   /**  */
   tags?: Taxonomy[];
   /**  */
+  stucture?: string;
+  /**  */
+  lighting?: string;
+  /**  */
   author?: string;
 
   /**  */
