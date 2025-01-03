@@ -57,7 +57,7 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       permalink = getHomePermalink();
       break;
 
-    case 'blog':
+    case 'products':
       permalink = getBlogPermalink();
       break;
 
