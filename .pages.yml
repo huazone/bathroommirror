@@ -27,7 +27,6 @@ content:
       - name: image
         label: Cover
         type: image
-        list: true
         options:
           path: src/assets/images
           extensions: [ jpg, jpeg, png ]
