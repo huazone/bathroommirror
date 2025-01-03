@@ -24,7 +24,7 @@ content:
         type: select
         options:
           values: [ Tech, News, Sports ]
-      - name: cover
+      - name: image
         label: Cover
         type: image
         list: true
