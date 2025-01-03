@@ -17,13 +17,14 @@ content:
         type: rich-text
       - name: lighting
         label: Lighting
-        ttype: rich-text
+        type: rich-text
       - name: category
         label: Category
         type: string
         default: Products
       - name: tag
         label: Tag
+        list: true
         type: select
         options:
           values: [ Tech, News, Sports ]
