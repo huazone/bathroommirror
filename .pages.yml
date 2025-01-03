@@ -1,6 +1,6 @@
 media:
   input: src/assets/images
-  output: dist/_astro
+  output: ~/assets/images
 content:
   - name: Products
     label: Products
