@@ -10,7 +10,10 @@ content:
       fields: [ title, published, publishDate ]
     fields:
       - name: title
-        label: Title
+        label: 标题
+        type: string
+      - name: excerpt
+        label: 简介
         type: string
       - name: stucture
         label: Stucture
@@ -18,12 +21,8 @@ content:
       - name: lighting
         label: Lighting
         type: rich-text
-      - name: category
-        label: Category
-        type: string
-        default: Products
-      - name: tag
-        label: Tag
+      - name: tags
+        label: 分类
         list: true
         type: select
         options:
@@ -38,5 +37,5 @@ content:
         label: Date
         type: date
       - name: body
-        label: Content
+        label: 介绍
         type: rich-text
