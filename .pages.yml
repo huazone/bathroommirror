@@ -18,6 +18,7 @@ content:
       - name: category
         label: Category
         type: string
+        default: Products
       - name: tag
         label: Tag
         type: select
