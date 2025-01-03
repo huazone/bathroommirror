@@ -12,9 +12,12 @@ content:
       - name: title
         label: Title
         type: string
-      - name: excerpt
-        label: Excerpt
-        type: string
+      - name: stucture
+        label: Stucture
+        type: rich-text
+      - name: lighting
+        label: Lighting
+        ttype: rich-text
       - name: category
         label: Category
         type: string
