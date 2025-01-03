@@ -22,7 +22,7 @@ content:
         label: Category
         type: string
         default: Products
-      - name: tag
+      - name: tags
         label: Tag
         list: true
         type: select
