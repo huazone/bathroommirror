@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: bathroommirror
+  site: 'http://www.dzbathroommirror.com/'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: dzbathroommirror
+    template: '%s — dzbathroommirror'
+  description: "Smart bathroom mirror manufacturer, smart bathroom mirror factory, smart bathroom mirror wholesale, smart bathroom mirror supplier, smart bathroom mirror China manufacturer, The direct source for Amazon stores of smart bathroom mirror, smart bathroom mirror Top stores factory source, LED smart bathroom mirror"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: dzbathroommirror
     images:
       - url: '~/assets/images/default.png'
         width: 1200
