@@ -27,7 +27,7 @@ content:
         list: true
         type: select
         options:
-          values: [ Tech, News, Sports ]
+          values: [ Led bathroom mirror, Led Framed mirror, Medicine cabinet mirror, Acrylic lighting mirror, Hollywood  mirror ]
       - name: image
         label: Cover
         type: image
