@@ -32,7 +32,7 @@ content:
           path: src/assets/images
           extensions: [ jpg, jpeg, png ]
       - name: publishDate
-        label: Date
+        label: PublishDate
         type: date
       - name: body
         label: Content
