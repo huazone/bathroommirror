@@ -1,36 +1,37 @@
 ---
-title: Makeup mirror with light
+title: 8'' LED Lighted Makeup Mirror for Bathroom
+excerpt: "Item # DZMM-1"
 stucture: >-
-  Mirror: environmental silver mirror, rust-resist;  
-
-  Structure: Aluminum, Vertical & Horizontal Mount  
-
-  Special features: frontlit, backlit, anti-fog, shatterproof, memery touch
-  switch.
+  1\. Material: chrome copper+chrome stainless steel with 2mm third-generation
+  eco-friendly glass;
 
 
-  bathroom mirror size: 500\*700mm, 600\*900mm, 700\*1000mm, 700\*1200mm
+  2\. CE certified driver, base conventional switch, full mirror power 3 watts;
 
 
-  Sytle: Modern led lighted, high quality, durable mirror chassis.
+  3\. Double-sided mirror (3x magnifying glass + flat mirror);
 
 
-  Quality lights plus quality mirror makes an excellent led bathroom mirror
-lighting: |-
-  Led: Average life with 50000hours
+  4\. Support concealed installation.
+lighting: >-
+  Led: Average life with 50000hours;
 
-  Color Temperature:  3000K/4500K/6000k,  CRI90+, brighter
 
-  lights, close to sunlight
+  Color Temperature:  3000K/4500K/6000k,  CRI90+, brighter lights, close to
+  sunlight, perfectly for makeup application, shaving, and grooming. It has 3
+  color temperatures (ranging from 3000K warm light to 6000K cool daylight) and
+  step-less dimming (from 10% to 100%) with high CRI (90+).
 tags:
   - Led Framed mirror
-image: ~/assets/images/Led Framed mirror/Makeup-mirror-with-light.42.3-1.jpg
-publishDate: 2025-01-03
+image: ~/assets/images/LED Makeup Mirror/DZ bathroom mirror  (14).jpeg
+publishDate: 2025-02-15
 ---
-Design: This makeup mirror with light is a perfect design for high-end bathroom
+Design: This LED lighted makeup mirror with light is a perfect design for high-end bathroom of residental & hospitality project.
 
-Structure: Aluminum back chassis
+![](~/assets/images/LED%20Makeup%20Mirror/DZ%20bathroom%20mirror%20%20(16).jpeg)
 
-Lighting:Front and back-lit designs illuminate the bathroom perfectly for makeup application, shaving, and grooming. It has 3 color temperatures (ranging from 3000K warm light to 6000K cool daylight) and step-less dimming (from 10% to 100%) with high CRI (90+).
+![](~/assets/images/LED%20Makeup%20Mirror/DZ%20bathroom%20mirror%20%20(27).jpeg)
 
-![](~/assets/images/hero-image.png)
+![](~/assets/images/LED%20Makeup%20Mirror/DZ%20bathroom%20mirror%20%20(28).jpeg)
+
+![](~/assets/images/LED%20Makeup%20Mirror/DZ%20bathroom%20mirror%20%20(29).jpeg)
