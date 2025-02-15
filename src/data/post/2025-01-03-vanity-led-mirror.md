@@ -1,15 +1,17 @@
 ---
 title: Pill Shape Frontlit and Backlit Mirror - DZBM-1
 stucture: >-
-  Mirror: Eco-friendly 4mm glass, shatterproof, rust-resist;  
+  Mirror: Eco-friendly 4mm glass, shatterproof, rust-resist;
 
-  Structure: Aluminum frame, Vertical & Horizontal Mount  
+    
+  Structure: Aluminum frame, Vertical & Horizontal Mount;
 
+    
   Special features: frontlit, backlit, anti-fog, memory function, support wall
   switch etc.
 
 
-  Size: 40''x20'', 30''x20'',36''x24'', 40''x30''
+  Size: 40''x20'', 30''x20'',36''x24'', 40''x30'' or customized;
 
 
   Led Mirror Sytle: Modern led lighted, high quality, durable mirror chassis.
