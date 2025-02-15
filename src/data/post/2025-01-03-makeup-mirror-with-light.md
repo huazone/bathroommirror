@@ -1,6 +1,5 @@
 ---
-title: 8'' LED Lighted Makeup Mirror for Bathroom
-excerpt: "Item # DZMM-1"
+title: "8'' LED Lighted Makeup Mirror for Bathroom Item # DZMM-1"
 stucture: >-
   1\. Material: chrome copper+chrome stainless steel with 2mm third-generation
   eco-friendly glass;
