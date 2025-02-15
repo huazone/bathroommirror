@@ -1,5 +1,5 @@
 ---
-title: LED Bathroom Mirror with Lights DZBM-2
+title: Framless LED Bathroom Mirror with Lights DZBM-2
 stucture: >-
   Mirror: 5mm High Quality Glass With Silver Coating;
 
