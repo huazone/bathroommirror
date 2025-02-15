@@ -13,7 +13,7 @@ stucture: >-
 
   4\. Support concealed installation.
 lighting: >-
-  Led: Average life with 50000hours;
+  Led: Average life with 50000 hours;
 
 
   Color Temperature:  3000K/4500K/6000k,  CRI90+, brighter lights, close to
