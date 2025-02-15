@@ -28,4 +28,5 @@ tags:
   - Led bathroom mirror
 image: ~/assets/images/Led bathroom mirror/D:\2025-2 上传的镜子图片\Led bathroom
   mirror/DZ bathroom mirror  (4).jpeg
+publishDate: 2025-02-15
 ---
