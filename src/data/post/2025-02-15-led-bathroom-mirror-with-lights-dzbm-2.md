@@ -6,6 +6,9 @@ stucture: >-
 
   Features: Dimmable, Fog Free, Shatterproof, Lighted, Touch Sensor or
   customized.
+
+
+  Size: 20''x28'' 36''x36'' 40''x28'' 72''x36'' or customized.
 lighting: >-
   #### Kelvin Rating: 3000K, 4500K, 6000K or customized only 3000K or only 4000K
   etc ;
