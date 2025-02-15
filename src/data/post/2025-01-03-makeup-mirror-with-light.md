@@ -22,7 +22,7 @@ lighting: >-
   step-less dimming (from 10% to 100%) with high CRI (90+).
 tags:
   - Led Framed mirror
-image: ~/assets/images/LED Makeup Mirror/DZ bathroom mirror  (14).jpeg
+image: ~/assets/images/LED Makeup Mirror/DZ bathroom mirror  (16).jpeg
 publishDate: 2025-02-15
 ---
 Design: This LED lighted makeup mirror with light is a perfect design for high-end bathroom of residental & hospitality project.
