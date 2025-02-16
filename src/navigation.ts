@@ -25,15 +25,15 @@ export const headerData = {
           text: 'Medicine cabinet mirror',
           href: getPermalink('medicine-cabinet-mirror', 'mirror'),
         },
-        {
-          text: 'Acrylic lighting mirror',
-          href: getPermalink('acrylic-lighting-mirror', 'mirror'),
-        },
-
-        {
-          text: 'Hollywood  mirror',
-          href: getPermalink('hollywood-mirror', 'mirror'),
-        }
+        // {
+        //   text: 'Acrylic lighting mirror',
+        //   href: getPermalink('acrylic-lighting-mirror', 'mirror'),
+        // },
+        //
+        // {
+        //   text: 'Hollywood  mirror',
+        //   href: getPermalink('hollywood-mirror', 'mirror'),
+        // }
       ],
     },
     // {
@@ -66,7 +66,7 @@ export const headerData = {
       href: getPermalink('/contact'),
     }
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  // actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
 
 export const footerData = {
