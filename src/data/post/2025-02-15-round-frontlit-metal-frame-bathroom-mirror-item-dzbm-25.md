@@ -21,9 +21,10 @@ lighting: >-
 tags:
   - Led Framed mirror
   - Led bathroom mirror
-image: ~/assets/images/Led bathroom mirror/D:\2025-2 上传的镜子图片\Led bathroom
-  mirror/DZ LED bathroom mirror (25).jpeg
+image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (25)  DZBM-25.jpeg
 ---
 Another frosted design
+
+![](~/assets/images/Led%20Framed%20mirror/DZ%20LED%20bathroom%20mirror%20(24)%20%20DZBM-24.jpeg)
 
 ![](~/assets/images/Led%20bathroom%20mirror/D:%5C2025-2%20%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%95%9C%E5%AD%90%E5%9B%BE%E7%89%87%5CLed%20bathroom%20mirror/DZ%20LED%20bathroom%20mirror%20(24).jpeg)
