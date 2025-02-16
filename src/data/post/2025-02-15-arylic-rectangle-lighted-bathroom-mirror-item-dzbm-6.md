@@ -21,7 +21,6 @@ lighting: >-
 tags:
   - Led bathroom mirror
   - Acrylic lighting mirror
-image: ~/assets/images/Led bathroom mirror/D:\2025-2 上传的镜子图片\Led bathroom
-  mirror/DZ LED bathroom mirror (6).jpeg
+image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (6)  DZBM-6.jpeg
 publishDate: 2025-02-15
 ---

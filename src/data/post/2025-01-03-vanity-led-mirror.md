@@ -37,3 +37,7 @@ The brightness is dimmable for this vanity LED mirror. By simply long press the 
 Waterproof mirror rated for using in the bathroom.
 
 If you have your own preferred color temperature such as 3000K or 4000K, we will customize for you.
+
+![](~/assets/images/Led%20Framed%20mirror/DZ%20LED%20bathroom%20mirror%20(1)%20DZBM-1.jpeg)
+
+![](~/assets/images/Led%20Framed%20mirror/DZ%20LED%20bathroom%20mirror%20(20).jpeg)

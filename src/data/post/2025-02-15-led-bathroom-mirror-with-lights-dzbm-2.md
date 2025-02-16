@@ -20,7 +20,6 @@ lighting: >-
   #### CRI: 90+.
 tags:
   - Led bathroom mirror
-image: ~/assets/images/Led bathroom mirror/D:\2025-2 上传的镜子图片\Led bathroom
-  mirror/DZ LED bathroom mirror (1).jpg
+image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (1)  DZBM-2.jpg
 publishDate: 2025-02-15
 ---

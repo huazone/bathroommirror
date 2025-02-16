@@ -8,6 +8,6 @@ stucture: |-
   Size: 20''x28'' 36''x36'' 40''x28'' 72''x36'' or customized.
 tags:
   - Led Framed mirror
-image: ~/assets/images/Framed Mirror/DZ bathroom mirror  (32).jpeg
+image: ~/assets/images/Framed Mirror/DZ FM (5).jpeg
 publishDate: 2025-02-15
 ---
