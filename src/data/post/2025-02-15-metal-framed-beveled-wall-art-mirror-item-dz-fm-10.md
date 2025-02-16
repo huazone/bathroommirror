@@ -9,6 +9,6 @@ stucture: |-
 lighting: NONE
 tags:
   - Led Framed mirror
-image: ~/assets/images/Framed Mirror/DZ bathroom mirror  (48).jpeg
+image: ~/assets/images/Framed Mirror/DZ FM (10).jpeg
 publishDate: 2025-02-15
 ---
