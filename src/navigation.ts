@@ -24,50 +24,14 @@ export const headerData = {
         {
           text: 'Medicine cabinet mirror',
           href: getPermalink('medicine-cabinet-mirror', 'mirror'),
-        },
-        // {
-        //   text: 'Acrylic lighting mirror',
-        //   href: getPermalink('acrylic-lighting-mirror', 'mirror'),
-        // },
-        //
-        // {
-        //   text: 'Hollywood  mirror',
-        //   href: getPermalink('hollywood-mirror', 'mirror'),
-        // }
-      ],
+        }
+      ]
     },
-    // {
-    //   text: 'Blog',
-    //   links: [
-    //     {
-    //       text: 'Blog List',
-    //       href: getBlogPermalink(),
-    //     },
-    //     {
-    //       text: 'Article',
-    //       href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-    //     },
-    //     {
-    //       text: 'Article (with MDX)',
-    //       href: getPermalink('markdown-elements-demo-post', 'post'),
-    //     },
-    //     {
-    //       text: 'Category Page',
-    //       href: getPermalink('tutorials', 'category'),
-    //     },
-    //     {
-    //       text: 'Tag Page',
-    //       href: getPermalink('astro', 'tag'),
-    //     },
-    //   ],
-    // },
     {
       text: 'Contact Us',
       href: getPermalink('/contact'),
     }
-  ],
-  // actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
-};
+  ]};
 
 export const footerData = {
   links: [
