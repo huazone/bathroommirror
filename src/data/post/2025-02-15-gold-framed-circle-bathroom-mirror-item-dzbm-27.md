@@ -29,5 +29,3 @@ image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (27)  DZBM-27.jp
 When lights on
 
 ![](~/assets/images/Led%20Framed%20mirror/DZ%20LED%20bathroom%20mirror%20(26)%20%20DZBM-26.jpeg)
-
-![](~/assets/images/Led%20bathroom%20mirror/D:%5C2025-2%20%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%95%9C%E5%AD%90%E5%9B%BE%E7%89%87%5CLed%20bathroom%20mirror/DZ%20LED%20bathroom%20mirror%20(26).jpeg)
