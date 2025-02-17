@@ -10,14 +10,14 @@ stucture: >-
 
   Size: 28''x28'' 36''x36'' or customized.
 lighting: >-
-  #### **Kelvin Rating: 3000K, 4500K, 6000K or customized only 3000K or only
-  4000K etc ;**
+  Kelvin Rating: 3000K, 4500K, 6000K or customized only 3000K or only 4000K etc
+  ;
 
 
-  #### **Lifespan: ≥20000 hours;**
+  Lifespan: ≥20000 hours;
 
 
-  #### **CRI: 90+.**
+  CRI: 90+.
 tags:
   - Led Framed mirror
   - Led bathroom mirror
