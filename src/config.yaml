@@ -1,5 +1,5 @@
 site:
-  name: bathroommirror
+  name: 'bathroommirror'
   site: 'http://www.dzbathroommirror.com/'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: dzbathroommirror
+    default: 'dzbathroommirror'
     template: '%s — dzbathroommirror'
   description: "Smart bathroom mirror manufacturer, smart bathroom mirror factory, smart bathroom mirror wholesale, smart bathroom mirror supplier, smart bathroom mirror China manufacturer, The direct source for Amazon stores of smart bathroom mirror, smart bathroom mirror Top stores factory source, LED smart bathroom mirror"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: dzbathroommirror
+    site_name: 'dzbathroommirror'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
