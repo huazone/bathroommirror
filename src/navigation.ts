@@ -7,10 +7,6 @@ export const headerData = {
       href: getPermalink('/')
     },
     {
-      text: 'About us',
-      href: getPermalink('/about'),
-    },
-    {
       text: 'Products',
       links: [
         {
@@ -26,6 +22,10 @@ export const headerData = {
           href: getPermalink('medicine-cabinet-mirror', 'mirror'),
         }
       ]
+    },
+    {
+      text: 'About us',
+      href: getPermalink('/about'),
     },
     {
       text: 'Contact Us',
