@@ -2,15 +2,8 @@
 import Layout from '~/layouts/PageLayout.astro';
 
 import Hero from '~/components/widgets/Hero.astro';
-import Note from '~/components/widgets/Note.astro';
-import Features from '~/components/widgets/Features.astro';
-import Features2 from '~/components/widgets/Features2.astro';
-import Steps from '~/components/widgets/Steps.astro';
-import Content from '~/components/widgets/Content.astro';
 import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
-import FAQs from '~/components/widgets/FAQs.astro';
-import Stats from '~/components/widgets/Stats.astro';
-import CallToAction from '~/components/widgets/CallToAction.astro';
+import AboutUs from '~/components/widgets/AboutUs.astro';
 
 const metadata = {
   title: 'LED lighted bathroom mirror and medicine cabinet manufacturer',
@@ -25,20 +18,7 @@ const metadata = {
     title="Find out more Products"
     information={`LED lighted bathroom mirror and medicine cabinet manufacturer`}
   />
-  <!-- Hero Widget ******************* -->
+  <!-- AboutUs Widget ******************* -->
 
-  <Hero
-    tagline="About us"
-  >
-    <!-- <Fragment slot="title">
-      Elevate your online presence with our <br />
-      <span class="text-accent dark:text-white highlight"> Beautiful Website Templates</span>
-    </Fragment> -->
-
-    <Fragment slot="subtitle">
-      <p>Guangzhou Duoze Manufacturing Co., Ltd., a reputable factory with over 10 years of expertise in producing high-quality bathroom mirrors, wall-mounted decorative mirrors, and medicine cabinets. We specialize in custom manufacturing based on client designs, catering to a diverse clientele including real estate developers, hotels, entertainment venues, construction firms, contractors, design agencies, and local appliance distributors.</p>
-      <p>Our minimum order quantity is 100 pieces, with a monthly production capacity of 5,000 mirrors and 1,000 cabinets. We prioritize durability and quality, offering factory and product inspections, as well as certifications like UL, CE, ETL, and SAA. Our products come with a 3-year warranty, and we provide DDP pricing to ensure a hassle-free experience for our clients.</p>
-      <p>Let us handle your mirror and cabinet needs with reliability and professionalism. Looking forward to discussing potential collaborations.</p>
-    </Fragment>
-  </Hero>
+  <AboutUs />
 </Layout>
