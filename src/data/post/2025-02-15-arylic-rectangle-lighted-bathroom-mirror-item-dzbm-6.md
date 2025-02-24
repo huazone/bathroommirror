@@ -20,7 +20,7 @@ lighting: >-
   #### **CRI: 90+.**
 tags:
   - Led bathroom mirror
-  - Acrylic lighting mirror
+  - Framed mirror
 image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (6)  DZBM-6.jpeg
 publishDate: 2025-02-15
 ---
