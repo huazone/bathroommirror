@@ -2,18 +2,19 @@
 title: "8'' LED Lighted Makeup Mirror for Bathroom Item # DZMM-1"
 stucture: >-
   1\. Material: chrome copper+chrome stainless steel with 2mm third-generation
-  eco-friendly glass;
+  eco-friendly glass;<br>
 
 
-  2\. CE certified driver, base conventional switch, full mirror power 3 watts;
+  2\. CE certified driver, base conventional switch, full mirror power 3
+  watts;<br>
 
 
-  3\. Double-sided mirror (3x magnifying glass + flat mirror);
+  3\. Double-sided mirror (3x magnifying glass + flat mirror);<br>
 
 
-  4\. Support concealed installation.
+  4\. Support concealed installation.<br>
 lighting: >-
-  Led: Average life with 50000 hours;
+  Led: Average life with 50000 hours;<br>
 
 
   Color Temperature:  3000K/4500K/6000k,  CRI90+, brighter lights, close to
