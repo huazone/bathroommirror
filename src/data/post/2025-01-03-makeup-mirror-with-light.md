@@ -13,8 +13,9 @@ stucture: >-
 
   Support concealed installation.<br>
 lighting: >-
-  Led: Average life with 50000 hours;  
+  Led: Average life with 50000 hours;
 
+    
   Color Temperature:  3000K/4500K/6000k,  CRI90+, brighter lights, close to
   sunlight, perfectly for makeup application, shaving, and grooming. It has 3
   color temperatures (ranging from 3000K warm light to 6000K cool daylight) and
