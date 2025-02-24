@@ -1,11 +1,11 @@
 ---
 title: Alunimun Framed Rectangle Bathroom Mirror DZ FM (17)
 stucture: |-
-  Mirror: 5mm High Quality Glass With Silver Coating;
+  Mirror: 5mm High Quality Glass With Silver Coating;<br>
 
-  Features: anodized **aluminum** or customized.
+  Features: anodized **aluminum** or customized.<br>
 
-  Size: 20''x28'' 36''x36'' 40''x28'' 72''x36'' or customized.
+  Size: 20''x28'' 36''x36'' 40''x28'' 72''x36'' or customized.<br>
 lighting: NONE
 tags:
   - Framed mirror
