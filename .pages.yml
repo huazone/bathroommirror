@@ -26,7 +26,7 @@ content:
         list: true
         type: select
         options:
-          values: [ Led bathroom mirror, Led Framed mirror, Medicine cabinet mirror, Acrylic lighting mirror, Hollywood  mirror ]
+          values: [ Led bathroom mirror, Led Framed mirror, Medicine cabinet mirror, LED Makeup Mirror, Hollywood  mirror ]
       - name: image
         label: Cover
         type: image
