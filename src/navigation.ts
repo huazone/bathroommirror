@@ -14,12 +14,12 @@ export const headerData = {
           href: getPermalink('led-bathroom-mirror', 'mirror'),
         },
         {
-          text: 'Led Framed mirror',
-          href: getPermalink('led-framed-mirror', 'mirror'),
+          text: 'Framed mirror',
+          href: getPermalink('framed-mirror', 'mirror'),
         },
         {
-          text: 'Medicine cabinet mirror',
-          href: getPermalink('medicine-cabinet-mirror', 'mirror'),
+          text: 'LED Makeup Mirror',
+          href: getPermalink('led-makeup-mirror', 'mirror'),
         }
       ]
     },
