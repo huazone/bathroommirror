@@ -21,7 +21,7 @@ lighting: >-
   color temperatures (ranging from 3000K warm light to 6000K cool daylight) and
   step-less dimming (from 10% to 100%) with high CRI (90+).
 tags:
-  - Led Framed mirror
+  - Framed mirror
 image: ~/assets/images/LED Makeup Mirror/DZ bathroom mirror  (17).jpeg
 publishDate: 2025-02-15
 ---
