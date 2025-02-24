@@ -1,28 +1,29 @@
 ---
 title: Pill Shape Frontlit and Backlit Mirror - DZBM-1
 stucture: >-
-  Mirror: Eco-friendly 4mm glass, shatterproof, rust-resist;
+  Mirror: Eco-friendly 4mm glass, shatterproof, rust-resist;<br>
 
 
-  Structure: Aluminum frame, Vertical & Horizontal Mount;
+  Structure: Aluminum frame, Vertical & Horizontal Mount;<br>
 
 
   Special features: frontlit, backlit, anti-fog, memory function, support wall
-  switch etc.
+  switch etc.<br>
 
 
-  Size: 40''x20'', 30''x20'',36''x24'', 40''x30'' or customized;
+  Size: 40''x20'', 30''x20'',36''x24'', 40''x30'' or customized;<br>
 
 
-  Led Mirror Sytle: Modern led lighted, high quality, durable mirror chassis.
+  Led Mirror Sytle: Modern led lighted, high quality, durable mirror
+  chassis.<br>
 
 
-  Quality lights plus quality mirror makes an excellent led bathroom mirror.
+  Quality lights plus quality mirror makes an excellent led bathroom mirror.<br>
 lighting: >-
-  Led: Average life with 50000 hours  
+  Led: Average life with 50000 hours<br>  
 
   Color Temperature: 3000K/4500K/6000k, CRI90+, brighter lights, close to
-  sunlight
+  sunlight<br>
 tags:
   - Led bathroom mirror
 image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (3).jpeg
