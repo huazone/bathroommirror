@@ -23,8 +23,9 @@ lighting: >-
   #### **CRI: 90+.**
 tags:
   - Led bathroom mirror
-  - Led Framed mirror
+  - Led bathroom mirror
 image: ~/assets/images/Led Framed mirror/DZ LED bathroom mirror (27)  DZBM-27.jpeg
+publishDate: 2025-02-15
 ---
 When lights on
 
